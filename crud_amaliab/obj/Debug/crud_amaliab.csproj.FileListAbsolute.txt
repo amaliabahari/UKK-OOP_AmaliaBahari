@@ -1,0 +1,11 @@
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\bin\Debug\mydb.accdb
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\bin\Debug\crud_amaliab.exe.config
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\bin\Debug\crud_amaliab.exe
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\bin\Debug\crud_amaliab.pdb
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.Form1.resources
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.exe
+C:\Users\LENOVO\source\repos\crud_amaliab\crud_amaliab\obj\Debug\crud_amaliab.pdb
